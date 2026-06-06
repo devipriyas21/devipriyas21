@@ -19,3 +19,5 @@
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/devipriyas2111/
+
+![Snake animation](https://github.com/devipriyas21/devipriyas21/blob/output/github-contribution-grid-snake.svg)
