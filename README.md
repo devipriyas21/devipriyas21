@@ -6,11 +6,11 @@ Hi, I'm Devipriya 👋
 
 💡 Interests
 
- ☁️ Data Cloud
-📊 Data Science & Analytics
-🤖 Artificial Intelligence & Machine Learning
-💻 Full-Stack Development
-🌐 Cloud Technologies
+* ☁️ Data Cloud
+*📊 Data Science & Analytics
+*🤖 Artificial Intelligence & Machine Learning
+*💻 Full-Stack Development
+*🌐 Cloud Technologies
 
 ---
 
@@ -44,8 +44,8 @@ Data & Cloud
 
 
  GitHub Activity
-![Devipriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=devipriyas21&show_icons=true&theme=transparent)
-![Snake animation](https://github.com/devipriyas21/devipriyas21/blob/output/github-contribution-grid-snake.svg)
+![Devipriya's GitHub stats](https://raw.githubusercontent.com/devipriyas21/devipriyas21/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/devipriyas21/devipriyas21/output/github-contribution-grid-snake.svg)
 
 ---
 
