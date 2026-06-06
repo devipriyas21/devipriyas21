@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Devipriya 👋
 
-<!--
-**devipriyas21/devipriyas21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Science Engineering student (Data Science)
 
-Here are some ideas to get you started:
+💡 Interested in:
+- Data Science
+- Web Development
+- AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Full-Stack Development
+- Data Science Projects
+- GitHub & Open Source
+
+## Featured Projects
+- Emergency Vehicle Priority System
+- AI Travel Website
+- More coming soon...
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/devipriyas2111/
