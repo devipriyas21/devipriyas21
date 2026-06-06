@@ -44,7 +44,7 @@ Data & Cloud
 
 
  GitHub Activity
-
+![Devipriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=devipriyas21&show_icons=true&theme=transparent)
 ![Snake animation](https://github.com/devipriyas21/devipriyas21/blob/output/github-contribution-grid-snake.svg)
 
 ---
